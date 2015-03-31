@@ -1,0 +1,185 @@
+html {
+    background: url(wood.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+    width: 90vw;
+}
+.title {
+	font-family: 'raleway';
+    font-size: 22px;
+    font-weight: 400;
+	color: black;
+	margin-top: 42px;
+}
+.title2 {
+	display:inline;
+	margin-top: 42px;
+	margin-bottom: 5px;
+}
+.sotto{
+	display:inline;
+	font-family: 'raleway';
+	font-size: 60px;
+	font-weight: 1200px;
+}
+.sopra{
+	display:inline;
+	font-family: 'poiret one';
+	font-size: 60px;
+}
+.logo {
+	width: 60px;
+    height: auto;
+}
+ul {
+	font-family: 'poiret one';
+	font-size: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    display: block;
+    width: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    display: inline;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link, a:visited {
+    display: block;
+    width: 80px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: black;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.circle{
+	width:200px;
+	height:200px;
+	border-radius:100px;
+	color:#fff;
+	line-height:20px;
+	text-align:center;
+	background:#F0D199;
+	opacity: 0.8;
+	font-family: 'raleway';
+	font-size: 25px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.circle-title {
+	font-family: 'poiret one';
+	font-size: 15px;
+	line-height: 15px;
+	text-transform: uppercase;
+	color: black;
+}
+.circle-info {
+	font-family: 'raleway';
+	font-size: 16px;
+	line-height: 15px;
+	font-weight: bold;
+}
+.circle2{
+	width:200px;
+	height:200px;
+	border-radius:100px;
+	color:#fff;
+	background:#B28547;
+	opacity: 0.8;
+	font-family: 'poiret one';
+	vertical-align: middle;
+	line-height:20px;
+	text-align:center;
+	font-size: 25px;
+	display: table-cell;
+	vertical-align: middle;
+	margin-left: -200px;
+}
+.menu-item {
+	font-size: 10px;
+	font-family: 'permanent marker';
+	line-height: 15px;
+}
+.circle3 {
+	text-transform: uppercase;
+	width:200px;
+	height:200px;
+	border-radius:100px;
+	color:#fff;
+	line-height:20px;
+	text-align:center;
+	background:#7A4A1E;
+	opacity: 0.8;
+	font-family: 'poiret one';
+	font-size: 25px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.circle-info3 {
+	font-family: 'raleway';
+	font-size: 15px;
+	font-weight: bold;
+}
+.contact {
+	font-family: 'permanent marker';
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #8B2833;
+	line-height: 15px;
+}
+.map {
+	width:200px;
+    height: auto;
+    padding: 30px;
+}
+#footer {
+	font-family: 'raleway';
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    text-transform: uppercase;
+    font-size: 10px;
+    display: inline;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.circle4 {
+	width:200px;
+	height:200px;
+	border-radius:100px;
+	line-height:10px;
+	text-align:center;
+	font-size: 20px;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'poiret one';
+	background: #4D230F;
+	opacity: 0.8;
+	color: white;
+}
